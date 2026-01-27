@@ -1,0 +1,5 @@
+require('config.lazy')
+require('config.options')
+require('config.keymaps')
+require('config.auto-cmd')
+vim.cmd([[colorscheme tokyonight]])
